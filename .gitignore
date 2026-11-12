@@ -1,0 +1,4 @@
+*.db-journal
+*.sqlite3-journal
+.DS_Store
+Thumbs.db
